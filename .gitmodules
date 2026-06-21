@@ -1,0 +1,6 @@
+[submodule "kicad-pipeline-assets"]
+	path = kicad-pipeline-assets
+	url = https://github.com/alextrical/kicad-pipeline-assets.git
+[submodule "kicad-jlcpcb-libraries"]
+	path = kicad-jlcpcb-libraries
+	url = https://github.com/alextrical/kicad-jlcpcb-libraries.git
